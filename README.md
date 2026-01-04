@@ -1,4 +1,6 @@
-# ClawCloud-Run 自动登录助手:https://www.youtube.com/watch?v=l0i162KfK5c
+# ClawCloud-Run 自动登录助手:
+
+视频：https://www.youtube.com/watch?v=l0i162KfK5c
 
 这是一个通过 GitHub Actions 实现的自动化脚本，用于定时自动登录 [ClawCloudRun](https://console.run.claw.cloud/signin?link=WRJQ4YKZNLI5)，以保持账户活跃。
 
